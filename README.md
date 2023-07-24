@@ -1,1 +1,2 @@
 # sql-challenge
+I met with a tutor to double check my DBD schema because I was absent from class that day and had a hard time grasping it. The rest of the code comes from class activities, although I did search the internet for how to query with dates and how to get names that start with a certain letter.
